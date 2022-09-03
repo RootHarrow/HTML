@@ -1,4 +1,4 @@
 # Data Types | أنواع البيانات
 
 
-![](images/Python/Data Types.png)
+![Data](images/Python/Data Types.png)
