@@ -1,25 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Description</h1>
-    <h2>أنت بحاجة إلى تعلم البرمجة الآن. المهارة المستقبلية التي تجعلك متميزًا بعيدًا عن الآخرين تسمى برمجة أجهزة الكمبيوتر. هذا ماسنتعلمه بالدورة هذه. لغة المستقبل ليست الإسبانية أو الفرنسية. لغة المستقبل هي لغة يفهمها الكمبيوتر. تمامًا مثل البشر ، تمتلك أجهزة الكمبيوتر مجموعة واسعة من اللغات  ومع ذلك  فقد اخترنا لك أفضل لغة برمجة لتعلم وما تسمى بلغة البايثون او الثعبان
-    </h2>
-    <br>
-<h1>📑what will i learn📑</h1>
-<h3><li>Python Installation</li>
-    <li>Data Types</li>
-    <li>Functions</li>
-    <li>Error Handling</li>
-    <li>Automation</li>
-    <li>Files</li>
-    <li>Integrated Development Environment</li>
-    <li>Loops</li>
-    <li>Modules</li>
-    <li>Web Scraping</li>
-    <li>Emails</li>
-    <li>Object Oriented Programming (OOP)</li></h3>
-    <video src="Videos\Python.mp4" controls ></video>
+![Screenshot_1](https://user-images.githubusercontent.com/111543643/188287437-1b78b764-8107-4afc-a140-b36b9250ec8e.png)
 </body>
 </html>
