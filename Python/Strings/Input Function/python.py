@@ -1,0 +1,12 @@
+
+name = input("What is your name? ")
+age = input("What is your age? ")
+live = input ("where do you live? ")
+print (" ")
+print ("Here Your information")
+print ("         |            ")
+print ("         v           ")
+print (" ")
+print("Your name is " + name)
+print("Your age is "+ age)
+print ("Here you live " + live)
