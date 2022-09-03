@@ -1,3 +1,3 @@
 # Data Types | أنواع البيانات
 
-![DataTypes](images\Python\Data Types.png)
+![DataTypes](images\Python\Data%20Types.png)
