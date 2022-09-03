@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <video src="Videos\Python.mp4" controls ></video>
 </body>
 </html>
