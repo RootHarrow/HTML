@@ -1,4 +1,4 @@
 # Data Types | أنواع البيانات
 
 
-<img> C:\Programming\images\Python\Data Types.png</img>
+<img>images\Python\Data Types.png</img>
