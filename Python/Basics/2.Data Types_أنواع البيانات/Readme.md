@@ -1,3 +1,12 @@
-# Data Types | أنواع البيانات
-
-![Data Types](https://user-images.githubusercontent.com/111543643/188253915-3cce7209-36cd-43aa-a9dd-ac56efdb2482.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    hello world
+</body>
+</html>
