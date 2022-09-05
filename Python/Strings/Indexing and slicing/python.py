@@ -1,0 +1,1 @@
+print ("hello\n my name is qasem\n i like computer")
