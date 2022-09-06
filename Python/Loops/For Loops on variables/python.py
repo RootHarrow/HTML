@@ -1,11 +1,7 @@
-name = "qasem"
+name = input("What's your name? ")
+x = 0
 
-for x in name:
-    print (x)
 
-print ("Love\n")
-
-Programming = (["JAVASCRIPT","JAVA","C++"])
-
-for prog in Programming:
-    print (prog)
+for letter in name:
+    x += 1
+print (name + " has " + str(x) + " letters " )
